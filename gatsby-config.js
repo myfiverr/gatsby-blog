@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/myfiverr.github.io",
   siteMetadata: {
     title: `Somnath's Blog`,
     author: {
